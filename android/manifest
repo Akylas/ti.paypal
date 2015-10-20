@@ -4,14 +4,14 @@
 #
 version: 2.2.3
 apiversion: 2
-architectures: armeabi armeabi-v7a x86
 description: PayPal module for PayPal transactions
 author: Marshall Culpepper
 license: Apache License, Version 2.0
 copyright: Copyright (c) 2010-2013 by Appcelerator, Inc.
+debug_project_subpath: ti.paypal/android
 
 # these should not be edited
-name: paypal
+name: ti-paypal
 moduleid: ti.paypal
 guid: 806d55c1-4ff6-4b11-951a-115af5053252
 platform: android
