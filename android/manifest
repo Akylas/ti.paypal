@@ -3,7 +3,7 @@
 # during compilation, packaging, distribution, etc.
 #
 version: 2.2.3
-apiversion: 2
+apiversion: 4
 description: PayPal module for PayPal transactions
 author: Marshall Culpepper
 license: Apache License, Version 2.0

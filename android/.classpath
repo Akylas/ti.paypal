@@ -6,14 +6,15 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
-	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="con" path="org.eclipse.andmore.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.andmore.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.andmore.DEPENDENCIES"/>
 	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/titanium.jar"/>
 	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/kroll-apt.jar"/>
 	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/kroll-common.jar"/>
 	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/nineoldandroids-appc-2.4.0.jar"/>
 	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/android-support-v4.jar"/>
+	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/android-support-v4-internal_impl.jar"/>
 	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/android-support-v7-appcompat.jar"/>
 	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/modules/titanium-ui.jar"/>
 	<classpathentry kind="var" path="AKYLAS_SDK_PATH/android/okhttp-2.3.0.jar"/>

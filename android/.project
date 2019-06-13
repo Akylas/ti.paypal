@@ -24,7 +24,7 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>com.appcelerator.titanium.mobile.module.nature</nature>
-		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
+		<nature>org.eclipse.andmore.AndroidNature</nature>
 		<nature>com.aptana.projects.webnature</nature>
 	</natures>
 </projectDescription>
